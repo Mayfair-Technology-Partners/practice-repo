@@ -1,7 +1,7 @@
-function createCategory() {}
+function createProduct() {}
 
-function updateCategory() {}
+function updateProduct() {}
 
-function getCategories() {}
+function getProducts() {}
 
-function deleteCategory() {}
+function deleteProduct() {}
