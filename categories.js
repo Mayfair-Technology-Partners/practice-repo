@@ -1,3 +1,3 @@
-const createCategory = () => {}
+function createCategory() {}
 
-const updateCategory = () => {}
+function updateCategory() {}
