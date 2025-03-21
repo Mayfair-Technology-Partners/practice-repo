@@ -4,4 +4,6 @@ function updateProduct() {}
 
 function getProducts() {}
 
-function deleteProduct() {}
+function deleteProduct() {
+    
+}
